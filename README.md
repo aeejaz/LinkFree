@@ -69,7 +69,7 @@ This will allow you to run your favourite IDE but not have to install any depend
 
 1. `docker-compose up`
 
-### 🤔 How to add YOUR Profile
+### 🙂 How to add YOUR Profile
 
 Step by step quickstart guide can be found in the full docs here https://linkfree.eddiehub.io/docs/quickstart
 
@@ -81,7 +81,7 @@ Looking for inspiration? You can view the following profiles for an example:
 - [Krupali Trivedi || Chai](https://github.com/EddieHubCommunity/LinkFree/blob/main/data/krupalitrivedi.json)
 - [Pradumna Saraf](https://github.com/EddieHubCommunity/LinkFree/blob/main/data/Pradumnasaraf.json)
 
-## 🪪 License
+## 🛡️ License
 
 LinkFree is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
